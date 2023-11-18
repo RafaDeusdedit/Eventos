@@ -1,0 +1,21 @@
+.detalheEvento {
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+.formConvidado{
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 20px;
+	padding-left: 10px;
+}
+
+.tabelaConvidado{
+	width: 50%;
+}
+
+.formEvento{
+	box-shadow: 0px 0px 5px grey;
+	padding-top: 20px;
+
+}
